@@ -13,5 +13,7 @@ npm install -g react-native-cli
 ```
 
 Once you have React Native installed you can install dependencies and run the dev simulator like this
-`npm install`
-`react-native run-ios`
+```
+npm install
+react-native run-ios
+```
