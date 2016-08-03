@@ -3,6 +3,8 @@ React Native app to help companies keep track of employees' current tasks
 
 Currently available for iOS only. 
 
+Note: This app requires a server to fetch tasks from.
+
 ## Getting Started
 
 You may need these if you haven't used React Native before
